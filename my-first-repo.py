@@ -5,7 +5,8 @@ Spyder Editor
 This is a temporary script file.
 """
 
-#%% Practice finding value types
+def func(a, b):
+    return a + b 
 
 
 
